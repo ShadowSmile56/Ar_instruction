@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4938371833881659230
+  m_GuidHigh: 6786312821610222978
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5116566819554206368
+      m_GuidHigh: 17995736148844305065
+    m_SerializedTextureGuid:
+      m_GuidLow: 11413409438291347132
+      m_GuidHigh: 16048826055222023288
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: 10002-20-scaled
+    m_Texture: {fileID: 2800000, guid: cd7246bc93699e6478d48a5344e2b8de, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5594526736544252498
+      m_GuidHigh: 5542713311076351900
+    m_SerializedTextureGuid:
+      m_GuidLow: 3586172889381233078
+      m_GuidHigh: 14036337089389455769
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: photo_2023-06-07_18-17-05
+    m_Texture: {fileID: 2800000, guid: 16b461b6a53e31c499e9b2103716cbc2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5468649968614764693
+      m_GuidHigh: 14843384018149841041
+    m_SerializedTextureGuid:
+      m_GuidLow: 7220397960777515282
+      m_GuidHigh: 7917686508266974442
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: photo_2023-06-07_18-17-07
+    m_Texture: {fileID: 2800000, guid: a519411201b06434eaec27f8ed45e16d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5265131402147048890
+      m_GuidHigh: 10442892077444430495
+    m_SerializedTextureGuid:
+      m_GuidLow: 17097004258974598260
+      m_GuidHigh: 16323466658816575402
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: photo_2023-06-07_18-17-08
+    m_Texture: {fileID: 2800000, guid: 2b858474c2caed44aac7b1d5709a88e2, type: 3}
